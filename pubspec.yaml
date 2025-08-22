@@ -1,0 +1,19 @@
+# pubspec.yaml
+name: amio_sense
+description: Amio Sense - IoT Dashboard (Flutter)
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  fl_chart: ^0.68.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
